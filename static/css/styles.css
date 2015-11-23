@@ -44,3 +44,7 @@ html {
 .old-standard {
     font-family: Old Standard TT, serif;
 }
+
+.boldish {
+    font-weight: 600;
+}
