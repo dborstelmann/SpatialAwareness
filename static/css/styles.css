@@ -1,0 +1,46 @@
+html {
+    font-family: GillSans-Light, Calibri, Trebuchet, sans-serif;
+}
+
+.top-map {
+    background-image: url('../../brown-map.jpg');
+    background-size: 100%;
+}
+
+.title {
+    text-shadow: 1px 1px #222;
+    font-family: Old Standard TT, serif;
+    margin: 0;
+    padding-right: 20px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-weight: 100;
+}
+
+.title-icon {
+    text-shadow: 1px 1px #222;
+    padding-right: 6px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
+
+.name {
+    font-size: 20px;
+}
+
+.subsubtitle, .subtitle {
+    font-family: Calibri, Trebuchet, sans-serif;
+    font-size: 22px;
+}
+
+.main-article {
+    margin-top: 80px;
+}
+
+.old-standard {
+    font-family: Old Standard TT, serif;
+}
