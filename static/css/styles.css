@@ -37,6 +37,28 @@ html {
     font-size: 22px;
 }
 
+.paragraph-header {
+    font-family: Calibri, Trebuchet, sans-serif;
+    font-size: 18px;
+}
+
+.paragraph {
+    margin-top: 20px;
+}
+
+.header-margin {
+    margin-top: 40px;
+}
+
+.footnotes {
+    margin-top: 10px;
+}
+
+.footnote {
+    display: block;
+    font-size: 12px;
+}
+
 .main-article {
     margin-top: 80px;
 }
@@ -47,4 +69,17 @@ html {
 
 .boldish {
     font-weight: 600;
+}
+
+.push-tad-right {
+    margin-left: 3px;
+}
+
+.no-bot-marg {
+    margin-bottom: 0;
+}
+
+.border-bot {
+    padding-bottom: 6px;
+    border-bottom: 1px solid #ccc;
 }
