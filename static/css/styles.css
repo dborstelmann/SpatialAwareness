@@ -38,6 +38,7 @@ html {
 }
 
 .paragraph-header {
+    margin-top: 0.5rem;
     font-family: Calibri, Trebuchet, sans-serif;
     font-size: 18px;
 }
@@ -52,6 +53,7 @@ html {
 
 .footnotes {
     margin-top: 10px;
+    margin-bottom: 40px;
 }
 
 .footnote {
@@ -73,6 +75,10 @@ html {
 
 .push-tad-right {
     margin-left: 3px;
+}
+
+.bot-marg {
+    margin-bottom: 40px;
 }
 
 .no-bot-marg {
