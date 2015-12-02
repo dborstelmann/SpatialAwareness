@@ -47,6 +47,10 @@ html {
     margin-top: 20px;
 }
 
+.small-paragraph {
+    margin-top: 10px;
+}
+
 .header-margin {
     margin-top: 40px;
 }
@@ -81,11 +85,44 @@ html {
     margin-bottom: 40px;
 }
 
+.some-bot-marg {
+    margin-bottom: 20px;
+}
+
 .no-bot-marg {
     margin-bottom: 0;
 }
 
 .border-bot {
     padding-bottom: 6px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #d0d0d0;
+}
+
+.table-heads {
+    font-weight: lighter;
+    font-family: Calibri, Trebuchet, sans-serif;
+    font-size: 13px;
+}
+
+.table-bodys {
+    font-weight: lighter;
+    font-family: GillSans-Light, Calibri, Trebuchet, sans-serif;
+    font-size: 12px;
+}
+
+.th, td {
+    width: 150px;
+}
+
+ul {
+    padding-left: 1.5rem;
+}
+
+ul li {
+    list-style-type: disc;
+}
+
+.italics {
+    font-style: italic;
+    font-weight: lighter;
 }
